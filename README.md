@@ -46,9 +46,9 @@ In Canopy and Anaconda, Open the respective terminals and execute the above.
 
 ## How to learn from this resource?
 
-You can download the pdf copy from here : [Get Started with Python](https://github.com/rajathkumarmp/Python-Lectures/blob/master/Python.pdf)
+You can download the pdf copy from here : [Get Started with Python](https://github.com/deepak2083/Python4Begineers /blob/master/Python.pdf)
 
-It is better to download all the ipython notebooks from this repository https://github.com/rajathkumarmp/Python-Lectures and learn it on the notebook itself rather than having to refer to a pdf.
+It is better to download all the ipython notebooks from this repository https://github.com/deepak2083/Python4Begineers  and learn it on the notebook itself rather than having to refer to a pdf.
 
 Launch ipython notebook from the folder which contains the notebooks. Open each one of them
 
@@ -60,28 +60,28 @@ This will clear all the outputs and now you can understand each statement and le
 
 
 
-[00 - Introduction and Installation](http://nbviewer.ipython.org/github/rajathkumarmp/Python-Lectures/blob/master/00.ipynb)
+[00 - Introduction and Installation](http://nbviewer.ipython.org/github/deepak2083/Python4Begineers /blob/master/00.ipynb)
 
 
-[01 - Variable, Operators and Built-in Functions](http://nbviewer.ipython.org/github/rajathkumarmp/Python-Lectures/blob/master/01.ipynb)
+[01 - Variable, Operators and Built-in Functions](http://nbviewer.ipython.org/github/deepak2083/Python4Begineers /blob/master/01.ipynb)
 
 
-[02 - Print Statement, Precision and FieldWidth](http://nbviewer.ipython.org/github/rajathkumarmp/Python-Lectures/blob/master/02.ipynb)
+[02 - Print Statement, Precision and FieldWidth](http://nbviewer.ipython.org/github/deepak2083/Python4Begineers /blob/master/02.ipynb)
 
 
-[03 - Lists, Tuples and Sets](http://nbviewer.ipython.org/github/rajathkumarmp/Python-Lectures/blob/master/03.ipynb)
+[03 - Lists, Tuples and Sets](http://nbviewer.ipython.org/github/deepak2083/Python4Begineers /blob/master/03.ipynb)
 
 
-[04 - Strings and Dictionaries](http://nbviewer.ipython.org/github/rajathkumarmp/Python-Lectures/blob/master/04.ipynb)
+[04 - Strings and Dictionaries](http://nbviewer.ipython.org/github/deepak2083/Python4Begineers /blob/master/04.ipynb)
 
 
-[05 - Control Flow Statements](http://nbviewer.ipython.org/github/rajathkumarmp/Python-Lectures/blob/master/05.ipynb)
+[05 - Control Flow Statements](http://nbviewer.ipython.org/github/deepak2083/Python4Begineers /blob/master/05.ipynb)
 
 
-[06 - Functions](http://nbviewer.ipython.org/github/rajathkumarmp/Python-Lectures/blob/master/06.ipynb)
+[06 - Functions](http://nbviewer.ipython.org/github/deepak2083/Python4Begineers /blob/master/06.ipynb)
 
 
-[07 - Classes](http://nbviewer.ipython.org/github/rajathkumarmp/Python-Lectures/blob/master/07.ipynb)
+[07 - Classes](http://nbviewer.ipython.org/github/deepak2083/Python4Begineers /blob/master/07.ipynb)
 
 
 
