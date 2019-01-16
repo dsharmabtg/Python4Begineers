@@ -41,8 +41,6 @@ In Canopy and Anaconda, Open the respective terminals and execute the above.
 
 ## How to learn from this resource?
 
-You can download the pdf copy from here : [Get Started with Python](https://github.com/deepak2083/Python4Begineers/blob/master/Python.pdf)
-
 It is better to download all the ipython notebooks from this repository https://github.com/deepak2083/Python4Begineers and learn it on the notebook itself rather than having to refer to a pdf.
 
 Launch ipython notebook from the folder which contains the notebooks. Open each one of them
